@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.24013027"><img src="assets/banner.png" alt="Alexander Grothendieck: A Life in Three Universes — a biography by Vincent Liu. The portrait, a line engraving after a photograph by Konrad Jacobs (Montreal, 1970), drawn in light on black glass above a rising sea" width="100%"></a>
+  <a href="https://grothendieckmath.com/"><img src="assets/banner.png" alt="Alexander Grothendieck: A Life in Three Universes — a biography by Vincent Liu. The portrait, a line engraving after a photograph by Konrad Jacobs (Montreal, 1970), drawn in light on black glass above a rising sea" width="100%"></a>
 </p>
 
-<p align="center"><a href="https://doi.org/10.5281/zenodo.24013027"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24013027.svg" alt="DOI"></a> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-1d1d1f?style=flat" alt="Licence: CC BY-NC-ND 4.0"></a> <a href="https://github.com/AlienMuse/alexander-grothendieck/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0-1d1d1f?style=flat" alt="Release v1.0.0"></a> <img src="https://img.shields.io/badge/pages-1%2C436-6e6e73?style=flat" alt="1,436 pages"> <img src="https://img.shields.io/badge/notes-2%2C707-6e6e73?style=flat" alt="2,707 notes"> <img src="https://img.shields.io/badge/works%20cited-244-6e6e73?style=flat" alt="244 works cited"> <img src="https://img.shields.io/badge/series-Lives%20of%20Mathematical%20Thought%20%C2%B7%201-6e6e73?style=flat" alt="Series: Lives of Mathematical Thought · 1"> <a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-a1a1a6?style=flat" alt="ORCID 0009-0000-8718-222X"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/OpenPGP-signed-a1a1a6?style=flat" alt="OpenPGP signed"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/timestamps-RFC%203161%20%C2%B7%20Bitcoin-a1a1a6?style=flat" alt="RFC 3161 and Bitcoin timestamps"></a></p>
+<p align="center"><a href="https://grothendieckmath.com/"><img src="https://img.shields.io/badge/read%20online-grothendieckmath.com-060607?style=flat" alt="Read online at grothendieckmath.com"></a> <a href="https://doi.org/10.5281/zenodo.24013027"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24013027.svg" alt="DOI"></a> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-1d1d1f?style=flat" alt="Licence: CC BY-NC-ND 4.0"></a> <a href="https://github.com/AlienMuse/alexander-grothendieck/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0-1d1d1f?style=flat" alt="Release v1.0.0"></a> <img src="https://img.shields.io/badge/pages-1%2C436-6e6e73?style=flat" alt="1,436 pages"> <img src="https://img.shields.io/badge/notes-2%2C707-6e6e73?style=flat" alt="2,707 notes"> <img src="https://img.shields.io/badge/works%20cited-244-6e6e73?style=flat" alt="244 works cited"> <img src="https://img.shields.io/badge/series-Lives%20of%20Mathematical%20Thought%20%C2%B7%201-6e6e73?style=flat" alt="Series: Lives of Mathematical Thought · 1"> <a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-a1a1a6?style=flat" alt="ORCID 0009-0000-8718-222X"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/OpenPGP-signed-a1a1a6?style=flat" alt="OpenPGP signed"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/timestamps-RFC%203161%20%C2%B7%20Bitcoin-a1a1a6?style=flat" alt="RFC 3161 and Bitcoin timestamps"></a></p>
 
 <p align="center">
   <b><a href="https://github.com/AlienMuse/alexander-grothendieck/releases/download/v1.0.0/Alexander-Grothendieck-v1.0.0-Preview.pdf">Read the preview</a></b> (162 pages, 39.7 MiB) ·
+  <b><a href="https://grothendieckmath.com/biography/">Read online</a></b> ·
   <a href="#download">Download</a> ·
   <a href="#three-universes">Three universes</a> ·
   <a href="#the-twelve-parts">The twelve Parts</a> ·
@@ -48,9 +49,9 @@ The book tells one chronological life through three inseparable universes.
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>The lived universe</b><br><br>statelessness, war, migration, institutions, friendship, conflict, activism, withdrawal, and the archive left behind.</td>
-    <td width="33%" valign="top"><b>The mathematical universe</b><br><br>the movement from isolated problem solving toward languages capable of reorganizing whole fields.</td>
-    <td width="33%" valign="top"><b>The philosophical universe</b><br><br>simplicity, childhood, creation, community, responsibility, rupture, solitude, dreams, and the limits of possession.</td>
+    <td width="33%" valign="top"><b>The lived universe</b><br><br>statelessness, war, migration, institutions, friendship, conflict, activism, withdrawal, and the archive left behind.<br><br><a href="https://grothendieckmath.com/life/">Life →</a></td>
+    <td width="33%" valign="top"><b>The mathematical universe</b><br><br>the movement from isolated problem solving toward languages capable of reorganizing whole fields.<br><br><a href="https://grothendieckmath.com/mathematics/">Mathematics →</a></td>
+    <td width="33%" valign="top"><b>The philosophical universe</b><br><br>simplicity, childhood, creation, community, responsibility, rupture, solitude, dreams, and the limits of possession.<br><br><a href="https://grothendieckmath.com/philosophy/">Philosophy →</a></td>
   </tr>
 </table>
 
@@ -67,18 +68,18 @@ postwar seminars, and the collective construction of a new geometry. — Preface
 
 | Part | | Chapters | Pages |
 |---|---|---|---:|
-| I | **Before Belonging** | 1–6 | 1–91 |
-| II | **Schooling in Exile** | 7–12 | 92–198 |
-| III | **Learning from First Principles** | 13–18 | 199–346 |
-| IV | **A Language Begins** | 19–24 | 347–473 |
-| V | **The Relative World** | 25–30 | 474–613 |
-| VI | **The Architecture of Cohomology** | 31–36 | 614–757 |
-| VII | **The Summit and the Breach** | 37–42 | 758–889 |
-| VIII | **Survival** | 43–48 | 890–987 |
-| IX | **Teaching at the Margin** | 49–54 | 988–1088 |
-| X | **Reaping, Sowing, Pursuing** | 55–60 | 1089–1198 |
-| XI | **The Village and the Invisible Work** | 61–66 | 1199–1270 |
-| XII | **After the Life** | 67–72 | 1271–1337 |
+| I | **Before Belonging** | [1–6](https://grothendieckmath.com/biography/01-before-the-name/) | 1–91 |
+| II | **Schooling in Exile** | [7–12](https://grothendieckmath.com/biography/07-flight/) | 92–198 |
+| III | **Learning from First Principles** | [13–18](https://grothendieckmath.com/biography/13-montpellier/) | 199–346 |
+| IV | **A Language Begins** | [19–24](https://grothendieckmath.com/biography/19-são-paulo/) | 347–473 |
+| V | **The Relative World** | [25–30](https://grothendieckmath.com/biography/25-a-new-foundation/) | 474–613 |
+| VI | **The Architecture of Cohomology** | [31–36](https://grothendieckmath.com/biography/31-the-seminar/) | 614–757 |
+| VII | **The Summit and the Breach** | [37–42](https://grothendieckmath.com/biography/37-at-the-summit/) | 758–889 |
+| VIII | **Survival** | [43–48](https://grothendieckmath.com/biography/43-survivre/) | 890–987 |
+| IX | **Teaching at the Margin** | [49–54](https://grothendieckmath.com/biography/49-return-to-montpellier/) | 988–1088 |
+| X | **Reaping, Sowing, Pursuing** | [55–60](https://grothendieckmath.com/biography/55-a-sketch-of-a-programme/) | 1089–1198 |
+| XI | **The Village and the Invisible Work** | [61–66](https://grothendieckmath.com/biography/61-the-village/) | 1199–1270 |
+| XII | **After the Life** | [67–72](https://grothendieckmath.com/biography/67-the-papers-return/) | 1271–1337 |
 
 Then the Bibliography (pp. 1338–1355), the Illustration Credits (pp. 1356–1360) and the Index of Names (pp. 1361–1365).
 
@@ -111,6 +112,10 @@ consequence; a mathematician should be able to locate every suppressed condition
 
 The files are archived permanently on Zenodo, [doi:10.5281/zenodo.24013027](https://doi.org/10.5281/zenodo.24013027); if GitHub downloads are slow
 in your region, download them there. The preview is also in this repository: [preview/](https://github.com/AlienMuse/alexander-grothendieck/tree/main/preview).
+
+The book can also be read online, chapter by chapter, with its notes beside the text, its bibliography and its index:
+[https://grothendieckmath.com/biography/](https://grothendieckmath.com/biography/).
+
 
 ## Citation
 
@@ -193,6 +198,7 @@ edition ([ERRATA.md](ERRATA.md)). Permission requests and other correspondence: 
 ---
 
 <p align="center">
+  <a href="https://grothendieckmath.com/">grothendieckmath.com</a> ·
   <i>Lives of Mathematical Thought</i> · 1 ·
   <a href="https://wisemotif.ai">WiseMotif.ai</a> ·
   <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> ·

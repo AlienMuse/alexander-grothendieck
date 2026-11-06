@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.24013027"><img src="assets/banner.png" alt="Alexander Grothendieck: A Life in Three Universes（亚历山大·格罗滕迪克：三个宇宙中的一生），Vincent Liu 著。肖像为依据 Konrad Jacobs 1970 年在蒙特利尔拍摄的照片所作的线刻，以光画在黑玻璃上，下方是涨起的海面" width="100%"></a>
+  <a href="https://grothendieckmath.com/zh/"><img src="assets/banner.png" alt="Alexander Grothendieck: A Life in Three Universes（亚历山大·格罗滕迪克：三个宇宙中的一生），Vincent Liu 著。肖像为依据 Konrad Jacobs 1970 年在蒙特利尔拍摄的照片所作的线刻，以光画在黑玻璃上，下方是涨起的海面" width="100%"></a>
 </p>
 
-<p align="center"><a href="https://doi.org/10.5281/zenodo.24013027"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24013027.svg" alt="DOI"></a> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-1d1d1f?style=flat" alt="Licence: CC BY-NC-ND 4.0"></a> <a href="https://github.com/AlienMuse/alexander-grothendieck/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0-1d1d1f?style=flat" alt="Release v1.0.0"></a> <img src="https://img.shields.io/badge/pages-1%2C436-6e6e73?style=flat" alt="1,436 pages"> <img src="https://img.shields.io/badge/notes-2%2C707-6e6e73?style=flat" alt="2,707 notes"> <img src="https://img.shields.io/badge/works%20cited-244-6e6e73?style=flat" alt="244 works cited"> <img src="https://img.shields.io/badge/series-Lives%20of%20Mathematical%20Thought%20%C2%B7%201-6e6e73?style=flat" alt="Series: Lives of Mathematical Thought · 1"> <a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-a1a1a6?style=flat" alt="ORCID 0009-0000-8718-222X"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/OpenPGP-signed-a1a1a6?style=flat" alt="OpenPGP signed"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/timestamps-RFC%203161%20%C2%B7%20Bitcoin-a1a1a6?style=flat" alt="RFC 3161 and Bitcoin timestamps"></a></p>
+<p align="center"><a href="https://grothendieckmath.com/"><img src="https://img.shields.io/badge/read%20online-grothendieckmath.com-060607?style=flat" alt="Read online at grothendieckmath.com"></a> <a href="https://doi.org/10.5281/zenodo.24013027"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24013027.svg" alt="DOI"></a> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-1d1d1f?style=flat" alt="Licence: CC BY-NC-ND 4.0"></a> <a href="https://github.com/AlienMuse/alexander-grothendieck/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0-1d1d1f?style=flat" alt="Release v1.0.0"></a> <img src="https://img.shields.io/badge/pages-1%2C436-6e6e73?style=flat" alt="1,436 pages"> <img src="https://img.shields.io/badge/notes-2%2C707-6e6e73?style=flat" alt="2,707 notes"> <img src="https://img.shields.io/badge/works%20cited-244-6e6e73?style=flat" alt="244 works cited"> <img src="https://img.shields.io/badge/series-Lives%20of%20Mathematical%20Thought%20%C2%B7%201-6e6e73?style=flat" alt="Series: Lives of Mathematical Thought · 1"> <a href="https://orcid.org/0009-0000-8718-222X"><img src="https://img.shields.io/badge/ORCID-0009--0000--8718--222X-a1a1a6?style=flat" alt="ORCID 0009-0000-8718-222X"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/OpenPGP-signed-a1a1a6?style=flat" alt="OpenPGP signed"></a> <a href="VERIFY.md"><img src="https://img.shields.io/badge/timestamps-RFC%203161%20%C2%B7%20Bitcoin-a1a1a6?style=flat" alt="RFC 3161 and Bitcoin timestamps"></a></p>
 
 <p align="center">
   <b><a href="https://github.com/AlienMuse/alexander-grothendieck/releases/download/v1.0.0/Alexander-Grothendieck-v1.0.0-Preview.pdf">阅读预览版</a></b>（162 页，39.7 MiB）·
+  <b><a href="https://grothendieckmath.com/zh/biography/">在线阅读</a></b> ·
   <a href="#下载">下载</a> ·
   <a href="#三个宇宙">三个宇宙</a> ·
   <a href="#十二部">十二部</a> ·
@@ -45,9 +46,9 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>生活的宇宙</b><br><sub>The lived universe</sub><br><br>无国籍、战争、迁徙、机构、友谊、冲突、社会运动、退隐，以及身后留下的档案。</td>
-    <td width="33%" valign="top"><b>数学的宇宙</b><br><sub>The mathematical universe</sub><br><br>从孤立地解决问题，走向能够重组整个领域的语言。</td>
-    <td width="33%" valign="top"><b>哲学的宇宙</b><br><sub>The philosophical universe</sub><br><br>简单、童年、创造、共同体、责任、决裂、孤独、梦，以及占有的界限。</td>
+    <td width="33%" valign="top"><b>生活的宇宙</b><br><sub>The lived universe</sub><br><br>无国籍、战争、迁徙、机构、友谊、冲突、社会运动、退隐，以及身后留下的档案。<br><br><a href="https://grothendieckmath.com/zh/life/">生活 →</a></td>
+    <td width="33%" valign="top"><b>数学的宇宙</b><br><sub>The mathematical universe</sub><br><br>从孤立地解决问题，走向能够重组整个领域的语言。<br><br><a href="https://grothendieckmath.com/zh/mathematics/">数学 →</a></td>
+    <td width="33%" valign="top"><b>哲学的宇宙</b><br><sub>The philosophical universe</sub><br><br>简单、童年、创造、共同体、责任、决裂、孤独、梦，以及占有的界限。<br><br><a href="https://grothendieckmath.com/zh/philosophy/">哲学 →</a></td>
   </tr>
 </table>
 
@@ -60,18 +61,18 @@
 
 | 部 | 标题 | 章 | 页 |
 |---|---|---|---:|
-| I | **归属之前**<br><sub>Before Belonging</sub> | 第 1—6 章 | 1—91 |
-| II | **流亡中的学业**<br><sub>Schooling in Exile</sub> | 第 7—12 章 | 92—198 |
-| III | **从第一原理学起**<br><sub>Learning from First Principles</sub> | 第 13—18 章 | 199—346 |
-| IV | **一种语言的开端**<br><sub>A Language Begins</sub> | 第 19—24 章 | 347—473 |
-| V | **相对的世界**<br><sub>The Relative World</sub> | 第 25—30 章 | 474—613 |
-| VI | **上同调的建筑**<br><sub>The Architecture of Cohomology</sub> | 第 31—36 章 | 614—757 |
-| VII | **顶峰与决裂**<br><sub>The Summit and the Breach</sub> | 第 37—42 章 | 758—889 |
-| VIII | **生存**<br><sub>Survival</sub> | 第 43—48 章 | 890—987 |
-| IX | **边缘处的教学**<br><sub>Teaching at the Margin</sub> | 第 49—54 章 | 988—1088 |
-| X | **收获、播种、追寻**<br><sub>Reaping, Sowing, Pursuing</sub> | 第 55—60 章 | 1089—1198 |
-| XI | **村庄与看不见的工作**<br><sub>The Village and the Invisible Work</sub> | 第 61—66 章 | 1199—1270 |
-| XII | **身后**<br><sub>After the Life</sub> | 第 67—72 章 | 1271—1337 |
+| I | **归属之前**<br><sub>Before Belonging</sub> | 第 [1—6](https://grothendieckmath.com/zh/biography/01-before-the-name/) 章 | 1—91 |
+| II | **流亡中的学业**<br><sub>Schooling in Exile</sub> | 第 [7—12](https://grothendieckmath.com/zh/biography/07-flight/) 章 | 92—198 |
+| III | **从第一原理学起**<br><sub>Learning from First Principles</sub> | 第 [13—18](https://grothendieckmath.com/zh/biography/13-montpellier/) 章 | 199—346 |
+| IV | **一种语言的开端**<br><sub>A Language Begins</sub> | 第 [19—24](https://grothendieckmath.com/zh/biography/19-são-paulo/) 章 | 347—473 |
+| V | **相对的世界**<br><sub>The Relative World</sub> | 第 [25—30](https://grothendieckmath.com/zh/biography/25-a-new-foundation/) 章 | 474—613 |
+| VI | **上同调的建筑**<br><sub>The Architecture of Cohomology</sub> | 第 [31—36](https://grothendieckmath.com/zh/biography/31-the-seminar/) 章 | 614—757 |
+| VII | **顶峰与决裂**<br><sub>The Summit and the Breach</sub> | 第 [37—42](https://grothendieckmath.com/zh/biography/37-at-the-summit/) 章 | 758—889 |
+| VIII | **生存**<br><sub>Survival</sub> | 第 [43—48](https://grothendieckmath.com/zh/biography/43-survivre/) 章 | 890—987 |
+| IX | **边缘处的教学**<br><sub>Teaching at the Margin</sub> | 第 [49—54](https://grothendieckmath.com/zh/biography/49-return-to-montpellier/) 章 | 988—1088 |
+| X | **收获、播种、追寻**<br><sub>Reaping, Sowing, Pursuing</sub> | 第 [55—60](https://grothendieckmath.com/zh/biography/55-a-sketch-of-a-programme/) 章 | 1089—1198 |
+| XI | **村庄与看不见的工作**<br><sub>The Village and the Invisible Work</sub> | 第 [61—66](https://grothendieckmath.com/zh/biography/61-the-village/) 章 | 1199—1270 |
+| XII | **身后**<br><sub>After the Life</sub> | 第 [67—72](https://grothendieckmath.com/zh/biography/67-the-papers-return/) 章 | 1271—1337 |
 
 书末依次是参考文献（第 1338—1355 页）、图片来源（第 1356—1360 页）与人名索引（第 1361—1365 页）。
 
@@ -98,6 +99,10 @@
 | 预览版 | 前置部分与第 I 部 | 162 | 39.7 MiB | [PDF](https://github.com/AlienMuse/alexander-grothendieck/releases/download/v1.0.0/Alexander-Grothendieck-v1.0.0-Preview.pdf) | [PDF](https://zenodo.org/records/24013028/files/Alexander-Grothendieck-v1.0.0-Preview.pdf?download=1) |
 
 所有文件永久存档于 Zenodo，[doi:10.5281/zenodo.24013027](https://doi.org/10.5281/zenodo.24013027)；在中国大陆如 GitHub 下载较慢，可改从 Zenodo 下载。预览版也在本仓库的 [preview/](https://github.com/AlienMuse/alexander-grothendieck/tree/main/preview) 中。
+
+本书也可在线逐章阅读，注释排在正文旁，并附参考文献与人名索引：[https://grothendieckmath.com/zh/biography/](https://grothendieckmath.com/zh/biography/)
+（界面为中文，正文为英文原文）。
+
 
 ## 引用
 
@@ -143,6 +148,7 @@ PDF 的元数据。未经书面许可，不得将本作品用于训练、微调�
 ---
 
 <p align="center">
+  <a href="https://grothendieckmath.com/zh/">grothendieckmath.com</a> ·
   <i>Lives of Mathematical Thought</i> · 1 ·
   <a href="https://wisemotif.ai">WiseMotif.ai</a> ·
   <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> ·

@@ -3,6 +3,9 @@ contact_links:
   - name: Zenodo archive (all files, permanent DOI)
     url: https://doi.org/10.5281/zenodo.24013027
     about: Download mirror and citation record.
+  - name: The book online (grothendieckmath.com)
+    url: https://grothendieckmath.com/biography/
+    about: The book chapter by chapter, with its notes, bibliography and index.
   - name: Contact the author
     url: mailto:elsevier2012@hotmail.com
     about: Permission requests and private correspondence.
