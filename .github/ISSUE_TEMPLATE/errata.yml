@@ -1,0 +1,55 @@
+name: Erratum
+description: Report a mistake — a date, a name, a quotation, a reference, a figure credit, or the typesetting.
+title: "[Erratum] p. ?: "
+labels: ["erratum"]
+body:
+  - type: dropdown
+    id: file
+    attributes:
+      label: File
+      options:
+        - Complete biography
+        - Preview
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: PDF page number
+      description: The page number shown by your PDF reader (not the printed folio).
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Place
+      description: Chapter, section, paragraph, note number, or figure.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - A fact (a date, a place, a name, an event)
+        - A quotation or its source
+        - A note or a work cited
+        - A figure, its caption or its credit
+        - Mathematics
+        - Language or typesetting
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction, with its source
+      description: A document, an edition with its page, or an archive reference, wherever possible.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Name for the acknowledgements (optional)
+      description: Leave empty if you prefer not to be named.
